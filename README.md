@@ -2,7 +2,7 @@
 
 This is the repository that contains source code for the [Responsible AI website](https://anas-zafar.github.io/responsible-ai.github.io).
 
-If you find Nerfies useful for your work please cite:
+If you find this work useful for your research please cite:
 ```bibtex
 @article{raza2025responsible,
   title        = {Who is Responsible? The Data, Models, Users or Regulations? Responsible Generative AI for a Sustainable Future},
