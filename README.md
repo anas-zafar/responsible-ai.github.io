@@ -1,6 +1,6 @@
 # Responsible AI
 
-This is the repository that contains source code for the [Responsible AI website](https://nerfies.github.io).
+This is the repository that contains source code for the [Responsible AI website](https://anas-zafar.github.io/responsible-ai.github.io).
 
 If you find Nerfies useful for your work please cite:
 ```bibtex
