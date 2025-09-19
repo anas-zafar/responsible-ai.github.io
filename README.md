@@ -1,6 +1,6 @@
 # Responsible AI
 
-This is the repository that contains source code for the [Responsible AI website](https://anas-zafar.github.io/responsible-ai.github.io).
+This is the repository that contains source code for the [Responsible AI website](https://anas-zafar.github.io/responsible-ai.github.io/).
 
 If you find this work useful for your research please cite:
 ```bibtex
