@@ -1,17 +1,13 @@
 # Responsible AI
 
-This is the repository that contains source code for the [Responsible AI website](https://anas-zafar.github.io/responsible-ai.github.io/).
 
 If you find this work useful for your research please cite:
 ```bibtex
 @article{raza2025responsible,
-  title        = {Who is Responsible? The Data, Models, Users or Regulations? Responsible Generative AI for a Sustainable Future},
-  author       = {Shaina Raza and Rizwan Qureshi and Anam Zahid and Joseph Fioresi and Ferhat Sadak and Muhammad Saeed and Ranjan Sapkota and Aditya Jain and Anas Zafar and Muneeb Ul Hassan and Aizan Zafar and Hasan Maqbool and Ashmal Vayani and Jia Wu and Maged Shoman},
-  journal      = {TechRxiv Preprints},
-  year         = {2025},
-  publisher    = {TechRxiv},
-  doi          = {10.36227/techrxiv.173834932.29831105},
-  url          = {https://www.techrxiv.org/doi/full/10.36227/techrxiv.173834932.29831105/v1}
+  title={Who is responsible? the data, models, users or regulations? a comprehensive survey on responsible generative ai for a sustainable future},
+  author={Raza, Shaina and Qureshi, Rizwan and Zahid, Anam and Muneer, Amgad and Zafar, Anas and Kamawal, Safiullah and Sadak, Ferhat and Fioresi, Joseph and Saeed, Muhammaed and Sapkota, Ranjan and others},
+  journal={arXiv preprint arXiv:2502.08650},
+  year={2025}
 }
 ```
 
